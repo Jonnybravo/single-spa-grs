@@ -1,0 +1,1 @@
+export const UPDATE_LAST_VALUE = 'UPDATE_LAST_VALUE';
